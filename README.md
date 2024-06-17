@@ -1,4 +1,4 @@
-# Peregrine take-home prompt
+#  take-home prompt
 
 ## Getting started
 
